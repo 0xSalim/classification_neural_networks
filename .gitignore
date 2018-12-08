@@ -116,5 +116,6 @@ dmypy.json
 
 *.png
 *.tex
+*.pdf
 
 
